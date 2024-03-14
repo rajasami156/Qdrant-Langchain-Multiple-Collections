@@ -1,0 +1,2 @@
+In Python, developers often appreciate its simplicity and readability. With its clean syntax and dynamic typing, Python enables rapid development of applications, making it a popular choice for both beginners and experienced programmers alike. Its extensive standard library offers modules for various tasks, from web development to data analysis, facilitating efficient coding. Additionally, Python's versatility allows it to be used for scripting, automation, and building complex software systems.
+The wifi password is samiullah1
